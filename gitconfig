@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = ahmedalbaiti1@gmail.com
+	name = Ahmed Albaiti
